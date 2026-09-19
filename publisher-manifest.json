@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "0feb644a0aaaa546142eb5c3",
+  "owner": "kamkgaeken",
+  "repo": "page-4ab281356e1628ed2caf7f8d",
+  "title": "免费clash订阅",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4ab281356e1628ed2caf7f8d",
+      "a": "金龙鱼(CTC)",
+      "b": "免费clash订阅",
+      "entity": "金龙鱼(CTC)",
+      "brand": "免费clash订阅",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "27732bad554a20bb0c2d6b190617ab2a3ea96b22af117ec36939f1780441c3ae",
+      "content": {
+        "primary_entity": "金龙鱼(CTC)",
+        "keyword1": "金龙鱼(CTC)",
+        "keyword2": "免费clash订阅",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择适合的客户端，Clash 客户端可手动导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端适配",
+          "AI_CLOSING_TEXT": "根据设备和用量选择合适套餐，导入订阅后开启加速。",
+          "AI_CLOSING_TITLE": "开启流畅连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，适配 Clash 等客户端订阅配置，支持多设备同时在线与流媒体访问。",
+          "AI_FEATURES_INTRO": "从套餐、设备和订阅周期三个角度快速找到适合的搭配。",
+          "AI_FEATURES_TITLE": "套餐与设备",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，IPLC 专线适合游戏与高清视频。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按量选择",
+          "AI_FEATURE_TITLE_2": "旗舰性能",
+          "AI_FEATURE_TITLE_3": "团队适用",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到订阅导入的配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "金龙鱼(CTC)提供多档海外加速套餐，覆盖日常流媒体、游戏加速与企业团队场景，可按设备数量和流量需求灵活选择。",
+          "AI_HERO_SUBTITLE": "多设备海外加速选择",
+          "AI_HIGHLIGHT_1": "基础版 100GB 流量支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线优化游戏体验",
+          "AI_HIGHLIGHT_3": "团队版 1000GB 流量支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版兼顾性能与设备数，团队版面向多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量和设备数量在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看套餐同时在线设备数是否满足。",
+          "AI_STEP_TEXT_3": "在 Clash 等客户端中导入订阅配置，按客户端文档完成连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "金龙鱼(CTC) 加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。可根据日常使用的手机、电脑、平板数量选择合适档位，升级套餐后设备上限会相应提高。",
+          "AI_FAQ_ANSWER_2": "月付和年付都支持。基础版 ¥15/月、年付 ¥150；旗舰版 ¥35/月、年付 ¥350；团队版 ¥85/月、年付 ¥850。长期使用选年付通常更实惠，短期需求可以先按月付体验。",
+          "AI_FAQ_ANSWER_3": "选择套餐后，在对应客户端里导入订阅链接即可。不同设备使用的客户端不同，请按各客户端文档完成添加订阅、选择节点和连接三个步骤，过程通常只需几分钟。",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB 流量、支持 20 台设备，并提供 VIP 专属高带宽节点、企业定制路由和专属客户经理服务。适合小团队或多设备同时使用，稳定性与带宽优先级更高。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化和全节点原生流媒体解锁，适合游戏和看剧需求；基础版提供基础流媒体解锁和普通线路节点池，适合日常浏览和轻量使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "支持月付吗？年付会更划算吗？",
+          "AI_FAQ_QUESTION_3": "购买后如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景使用？",
+          "AI_FAQ_QUESTION_5": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "80840baab2eccf03d47139bf8f4527d8813aa70d3e27e943e1345b1d7876ff4c",
+    "sitemap.xml": "a619db985a94d96e430d26643168615fba833c7cff9ba3fcc3c23b220c0b5fda",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "e3133959edc5a408edacff45876175bc3a3fb8e3388956d63b53689740df109b"
+}
